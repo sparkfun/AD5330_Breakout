@@ -1,9 +1,8 @@
 AD5330 Breakout
 ===============
 
-[![AD5330 DAC](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/2/0/8/2/12082-00.jpg) 
-
-*Breakout Board for AD5330 Parallel 8-Bit DAC (BOB-12082)*](https://www.sparkfun.com/products/12082)
+![AD5330 DAC](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/2/0/8/2/12082-00.jpg) 
+[*Breakout Board for AD5330 Parallel 8-Bit DAC (BOB-12082)*](https://www.sparkfun.com/products/12082)
 
 This is a breakout board for Analog Device's AD5330 8-bit digital-to-analog converter. 
 It runs from 2.5 to 5.5V. 
