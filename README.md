@@ -28,6 +28,7 @@ Product Versions
 
 Version History
 ---------------
+* [V_1.2.1](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2.1) - Pulled latest libs
 * [V1.2](https://github.com/sparkfun/AD5330_Breakout_Arduino_Library/tree/V_1.2) - Arduino library formatted
 * [V1.1] - Original non-tagged project
 
