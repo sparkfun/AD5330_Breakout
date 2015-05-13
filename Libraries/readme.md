@@ -1,4 +1,4 @@
-SparkFun <PRODUCT NAME> Libraries
+SparkFun AD5330 Breakout Libraries
 =================================
 
 Libraries for use in different environments. 
@@ -18,12 +18,11 @@ Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
-_Any collaboration credit should appear here._
 
 
 
-BUILD INSTRUCTIONS: 
+Update Library Instructions:
+----------------------------
+To get the most up-to-date version of the library, you must run the following git subtree commands. 
 
-$git subtree add -P <DIRECTORY NAME> --squash <git repo URL> <ref>
-
-$git subtree pull -P <DIRECTORY NAME> --squash <git repo URL> <ref>
+$git subtree pull -P Libraries/Arduino --squash https://github.com/sparkfun/SparkFun_AD5330_Breakout_Arduino_Library.git master
